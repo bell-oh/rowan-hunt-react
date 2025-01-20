@@ -1,6 +1,3 @@
-import Image from "react"
-import backgroundImage from "../images/delwatergap.jpg"
-import backgroundImage2 from "../images/pride-dog.jpg"
 
 interface WorkProps {
     title: string,
