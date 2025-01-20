@@ -1,8 +1,6 @@
 import Work from "./components/Work";
-import Image from "next/image";
 
 import DelWaterGap from "../../public/delwatergap.jpg"
-import PrideDog from "../../public/pride-dog.jpg";
 
 export default function Home() {
     return (
